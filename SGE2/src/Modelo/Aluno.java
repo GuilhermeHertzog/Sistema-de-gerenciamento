@@ -30,24 +30,19 @@ public class Aluno{
     public String getNome() {
         return this.nome;
     }
-
     public String getMatricula() {
         return this.matricula;
     }
-
     public Curso getCursoAluno() {
         return this.cursoAluno;
     }
-
     // SETTERS
     public String setNome(String nome){
         return this.nome = nome;
     }
-
     public String setMatricula(String matricula) {
         return this.matricula = matricula;
     }
-
     public void setCurso(Curso curso) {
         this.cursoAluno = curso;
     }
