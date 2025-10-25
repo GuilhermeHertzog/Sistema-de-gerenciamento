@@ -5,6 +5,9 @@
 - Validações de atributos
 - Relacionamento entre entidades
 
+## Segundo Sprint
+- Adição da classe Turma
+
 ## Tecnologias
 - Java
 - POO
